@@ -1,0 +1,37 @@
+div.jp h1{
+    border: 5px;
+    border-style: solid;
+    border-color: red;
+    color: darkviolet;
+    padding: 20px;
+}
+.HM ul li{
+    display: inline-block;
+    border:1px solid red;
+    background-color:red;
+    color:white;
+    padding:25px;
+    font-size: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    }
+    .HM ul li a {
+        text-decoration: none;
+    }
+
+    .ps td{
+         /* border:1px solid red; */
+    color:blue;
+    padding:25px;
+    font-size: 20px;
+    margin: 20px;
+    /* border-radius: 10px; */
+    }
+    .contact{
+        font-size: 20px;
+        
+    }
+    .school_footer {
+        color: red;
+        text-align: center;
+    }

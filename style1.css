@@ -1,0 +1,29 @@
+.services{
+    border: 2px solid rgb(255, 0, 111);
+    text-align: center;
+    background: aqua;
+    padding: 3px;
+    color: blue;
+    border-radius: 5px;
+}
+
+.bus services{
+    background: darkorange;
+    text-align: center;
+    font-size: 30px;
+    border: 2px solid yellow;
+}
+.canteen{
+    background: lightskyblue;
+    border: 2px solid red;
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
+.contactus{
+    background: limegreen;
+    text-align: center;
+    color:white;
+    font-size: 30px;
+    border: 2px solid red;
+}

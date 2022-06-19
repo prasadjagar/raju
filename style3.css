@@ -1,0 +1,29 @@
+.head{
+    text-align: center;
+    border: 500px;
+    background-color: aqua;
+    margin: 30px;
+    border-radius: 30px;
+    padding: 50px;
+}
+.head_down li{
+     display: inline-block;
+     margin: 0 10px;
+     font-size: 30PX;
+     font-weight: 500PX;
+     font-family: bold;
+     text-decoration: underline;
+     text-decoration-color: white;
+     color: blue;
+}
+.home{
+    font-size: 30px;
+}
+.about us_table_th{
+    color: yellow;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+.contact us.th{
+    font-size: 80x;
+}
